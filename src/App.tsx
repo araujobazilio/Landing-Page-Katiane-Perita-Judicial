@@ -49,7 +49,7 @@ function App() {
             <div className="flex justify-center">
               <div className="relative">
                 <img 
-                  src="/public/Generated Image September 01, 2025 - 12_43PM (1).jpeg"
+                  src="/Generated Image September 01, 2025 - 12_43PM (1).jpeg"
                   alt="Perita Grafotécnica"
                   className="w-80 h-80 object-cover rounded-full shadow-2xl border-8 border-white"
                 />
