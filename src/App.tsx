@@ -238,11 +238,11 @@ function App() {
               <div className="space-y-4">
                 <div className="flex items-center">
                   <Mail className="w-5 h-5 mr-3 text-blue-400" />
-                  <span>contato@peritagrafotecnica.com</span>
+                  <span>katianebazilio@outlook.com</span>
                 </div>
                 <div className="flex items-center">
                   <Phone className="w-5 h-5 mr-3 text-blue-400" />
-                  <span>(11) 99999-9999</span>
+                  <span>(22) 99940-0365</span>
                 </div>
                 <div className="flex items-center">
                   <MapPin className="w-5 h-5 mr-3 text-blue-400" />
